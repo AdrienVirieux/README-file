@@ -1,4 +1,4 @@
-# README-file
+# WIKI - Jeff Bezos
 
 Dans ce projet, nous avons voulu faire un wiki sur Jeff Bezos. Mais ce n'est pas un presentation / biographie normal de ce dernier, c'est un tutoriel qui permet de devenir le nouveau Jeff Bezos ou une nouvelle personnalité connue.
 
@@ -25,5 +25,5 @@ Deux étudiants en IUT informatique d'Aix-en-Provence :
 
 ## Sources
 Voici les sources que nous avons utilisé pour imaginer notre wiki sur Jeff Bezos :
-* [@eericon](https://fr.wikipedia.org/wiki/Jeff_Bezos)
-* [@eericon](https://www.businessinsider.com/we-are-what-we-choose-2010-6?IR=T)
+* [Wikipedia](https://fr.wikipedia.org/wiki/Jeff_Bezos)
+* [Busness-Insider](https://www.businessinsider.com/we-are-what-we-choose-2010-6?IR=T)
