@@ -1,11 +1,16 @@
 # README-file
 
-Bonjour, 
-Voici Enfal Bingolbali et Adrien Virieux 
-Nous sommes deux élèves de l'IUT informatique du DUT Aix en Provence
-Pourquoi ce sujet ?
-Nous avons voulu vous montrer que Jeff Bezos était un simple humain et que l'on peut être (avec beaucoup d'ambition) le prochain PDG milliardaire d'une entreprise.
+Dans ce projet, nous avons voulu faire un wiki sur Jeff Bezos. Mais ce n'est pas un presentation / biographie normal de ce dernier, c'est un tutoriel qui permet de devenir le nouveau Jeff Bezos, où une nouvelle personnalité connue.
 
-Les images viennent de Wikipédia et d'Amazon pour l'image du livre de Simon Sinek 
+## Sommaire
+* [Presentation](#presentation)
+* [Auteurs](#auteurs)
 
-Toutes ces informations viennent des connaissances acquis d'Enfal a travers des livres et optimiser par Adrien Virieux
+## Presentation
+Nous avons fait cet exercice / ce wiki, pour voir qu'il est très simple de créer et de mettre du contenu sur internet.
+
+
+## Auteurs
+Deux étudiants en IUT informatique d'Aix-en-Provence :
+* Enfal Bingolbali
+* Adrien Virieux
