@@ -12,10 +12,10 @@ Le sujet de notre wiki porte sur Jeff Bezos. Mais pas par une biographie basique
 
 Comme dit précédement, notre tutoriel se présente sous plusieurs étapes. Si vous voulez réussir à avoir une grande entreprise capitaliste, il va falloir suivre obligatoirement toutes les étapes.
 Dans les premières étapes, on vous apprendra la mentalité à avoir lorsque vous créez une entreprise ou lorsque vous la dirigez.
-![alt text](https://github.com/AdrienVirieux/README-file/blob/main/image/modele.png)
+![alt text](https://github.com/AdrienVirieux/Wiki-Project/blob/main/image/modele.png)
 
 Puis on vous donnera plusieurs solutions pour réussir certaines étapes, car elles sont complexes et il faut prendre en compte pas mal de données, qui peuvent être différentes pour chaque personnes.
-![alt text](https://github.com/AdrienVirieux/README-file/blob/main/image/modele2.png)
+![alt text](https://github.com/AdrienVirieux/Wiki-Project/blob/main/image/modele2.png)
 
 *__Attention !!__ Nous tenons à rappeler que nous ne sommes pas responsable des possibles problèmes qui peut vous arrivez si vous suivez notre wiki*
 
