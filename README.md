@@ -1,6 +1,6 @@
 # WIKI - Jeff Bezos
 
-Dans ce projet, nous avons voulu faire un wiki sur Jeff Bezos. Mais ce n'est pas un presentation / biographie normal de ce dernier, c'est un tutoriel qui permet de devenir le nouveau Jeff Bezos ou une nouvelle personnalité connue.
+Dans ce projet, nous devions créer un wiki sur un sujet au choix puis écrire un *readme.md* en Markdown (celui-ci). Le but est de voir les différentes solutions d'hébergements public de wiki gratuit que l'on peut trouver sur internet. Nous avons choisit le site de **Fandom** pour héberger notre wiki.
 
 ## Sommaire
 * [Presentation](#presentation)
@@ -8,15 +8,16 @@ Dans ce projet, nous avons voulu faire un wiki sur Jeff Bezos. Mais ce n'est pas
 * [sources](#sources)
 
 ## Presentation
-Nous avons fait cet exercice / ce wiki, pour voir qu'il est très simple de créer et de mettre du contenu sur internet.
-Le sujet de notre wiki porte sur Jeff Bezos, et plus précisement sur comment faire pour devenir un grand entrepreneur au XXIème siècle.
+Le sujet de notre wiki porte sur Jeff Bezos. Mais pas par une biographie basique que l'on peut retrouver sur Wikipédia. Nous avons décider d'utiliser la vie professionnelle de ce dernier pour imaginer un wiki/tutoriel qui vous donne toutes les étapes necessaires pour faire une entreprise d'une grande importance. Ce wiki permet donc en théorie de créer une entreprise comme **Amazon**.
 
-Notre tutoriel se présente sous plusieurs étapes. Si vous voulez donc réussir le but du wiki, il va falloir suivre obligatoirement toutes les étapes.
-On vous apprendra d'abord à penser comme un entrepreneur d'une grande entreprise, la votre evidemment.
+Comme dit précédement, notre tutoriel se présente sous plusieurs étapes. Si vous voulez réussir à avoir une grande entreprise capitaliste, il va falloir suivre obligatoirement toutes les étapes.
+Dans les premières étapes, on vous apprendra la mentalité à avoir lorsque vous créez une entreprise ou lorsque vous la dirigez.
 
 
-Puis on vous donnera plusieurs solutions pour réussir une étape. Il va donc falloir que vous choississiez celle que vous pensez faissable car elle peuvent être bizarre, voire compliqué.
+Puis on vous donnera plusieurs solutions pour réussir certaines étapes, car elles sont complexes et il faut prendre en compte pas mal de données, qui peuvent être différentes pour chaque personnes.
 
+
+*__Attention !!__ Nous tenons à rappeler que nous ne sommes pas responsable des possibles problèmes qui peut vous arrivez si vous suivez notre wiki*
 
 ## Auteurs
 Deux étudiants en IUT informatique d'Aix-en-Provence :
