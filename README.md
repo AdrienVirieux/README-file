@@ -25,6 +25,7 @@ Deux étudiants en IUT informatique d'Aix-en-Provence :
 * Adrien Virieux
 
 ## Sources
-Voici les sources que nous avons utilisé pour imaginer notre wiki sur Jeff Bezos :
+Voici les sources que nous avons utilisé pour imaginer notre wiki sur Jeff Bezos et pour les images :
 * [Wikipedia](https://fr.wikipedia.org/wiki/Jeff_Bezos)
 * [Busness-Insider](https://www.businessinsider.com/we-are-what-we-choose-2010-6?IR=T)
+* [Amazon](https://www.amazon.fr/Commencer-par-pourquoi-Simon-Sinek/dp/2923746678)
