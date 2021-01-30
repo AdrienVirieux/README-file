@@ -1,5 +1,9 @@
 # WIKI - Jeff Bezos
 
+# Nouveau Titre : Jezz Bezos, un grand entrepreneur
+* bonjour
+* bonsoir
+
 Dans ce projet, nous devions créer un wiki sur un sujet au choix puis écrire un *readme.md* en Markdown (celui-ci). Le but est de voir les différentes solutions d'hébergements public de wiki gratuit que l'on peut trouver sur internet. Nous avons choisit le site de **Fandom** pour héberger notre wiki.
 
 ## Sommaire
